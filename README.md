@@ -1,7 +1,7 @@
 # Bing 自動搜尋系統
 
 ## 📌 簡介
-這是一個用 **Python + Selenium + Tkinter** 製作的 Bing 自動搜尋工具，支援：
+這是一個用 **Python + Selenium** 製作的 Bing 自動搜尋工具，支援：
 - 自動執行 **Edge、Chrome、Firefox、Brave、Opera** 等瀏覽器
 - 模擬 **桌面版與手機版** 搜尋
 - 自動輪換瀏覽器執行

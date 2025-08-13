@@ -44,3 +44,30 @@
 ## 🔒 免責聲明
 - 本工具僅供學術研究與自動化測試用途，請勿用於任何違反服務條款或法律的行為  
 - 使用本工具造成的任何後果，由使用者自行承擔
+
+---
+## Webdriver下載
+**🟦 Microsoft Edge WebDriver**
+官方下載頁面：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
+請根據您安裝的 Edge 版本，選擇對應的 WebDriver 版本。
+
+**🟨 Google ChromeDriver**
+官方下載頁面：https://developer.chrome.com/docs/chromedriver/downloads
+
+請選擇與您 Chrome 瀏覽器版本相符的 ChromeDriver 版本。
+
+**🦊 Firefox (GeckoDriver)**
+官方下載頁面：https://github.com/mozilla/geckodriver/releases
+
+請選擇與您 Firefox 瀏覽器版本相符的 GeckoDriver 版本。
+
+**🦁 Brave WebDriver**
+官方下載頁面：https://github.com/brave/brave-browser/wiki/Brave-Driver
+
+Brave 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。
+
+**🟪 Opera WebDriver**
+官方下載頁面：https://github.com/operasoftware/operachromiumdriver/releases
+
+Opera 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。

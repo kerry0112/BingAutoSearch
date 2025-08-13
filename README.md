@@ -71,3 +71,8 @@ Brave 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver�
 官方下載頁面：https://github.com/operasoftware/operachromiumdriver/releases
 
 Opera 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。
+
+---
+## ⬇️ 下載Edge、Chrome、Firefox、Brave、Opera瀏覽器腳本
+1.將`AutoInstaller.zip`解壓縮
+2.點擊`AutoInstaller.bat`自動安裝

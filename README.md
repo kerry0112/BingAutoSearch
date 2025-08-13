@@ -11,7 +11,7 @@
 
 ## 📦 版本類型
 
-**下載：https://github.com/kerry0112/BingAutoSearch/releases/tag/on**
+**下載：https://github.com/kerry0112/BingAutoSearch/releases/**
 
 本專案提供兩種版本：
 

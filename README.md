@@ -28,7 +28,7 @@
 ---
 
 ## 🛠 系統需求
-- Windows 10/11
+- Windows 10/11 64bit
 - 確保已安裝對應的瀏覽器（Edge、Chrome、Firefox、Brave、Opera 至少其中一種）
 - 可正常連線至網際網路
 

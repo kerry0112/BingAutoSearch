@@ -56,7 +56,9 @@
 官方下載頁面：https://developer.chrome.com/docs/chromedriver/downloads
 
 請選擇與您 Chrome 瀏覽器版本相符的 ChromeDriver 版本。
+
 (Brave 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。)
+
 (Supermium 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。)
 
 **🦊 Firefox (GeckoDriver)**

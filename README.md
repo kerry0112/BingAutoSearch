@@ -2,7 +2,7 @@
 
 ## 📌 簡介
 這是一個用 **Python + Selenium** 製作的 Bing 自動搜尋工具，支援：
-- 自動執行 **Edge、Chrome、Firefox、Brave、Opera** 等瀏覽器
+- 自動執行 **Edge、Chrome、Firefox、Brave、Supermium** 等瀏覽器
 - 模擬 **桌面版與手機版** 搜尋
 - 自動輪換瀏覽器執行
 - 已打包為 **.exe**，不需安裝 Python 環境
@@ -29,7 +29,7 @@
 
 ## 🛠 系統需求
 - Windows 10/11 64bit
-- 確保已安裝對應的瀏覽器（Edge、Chrome、Firefox、Brave、Opera 至少其中一種）
+- 確保已安裝對應的瀏覽器（Edge、Chrome、Firefox、Brave、Supermium 至少其中一種）
 - 可正常連線至網際網路
 
 ---
@@ -56,21 +56,13 @@
 官方下載頁面：https://developer.chrome.com/docs/chromedriver/downloads
 
 請選擇與您 Chrome 瀏覽器版本相符的 ChromeDriver 版本。
+(Brave 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。)
+(Supermium 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。)
 
 **🦊 Firefox (GeckoDriver)**
 官方下載頁面：https://github.com/mozilla/geckodriver/releases
 
-請選擇與您 Firefox 瀏覽器版本相符的 GeckoDriver 版本。
-
-**🦁 Brave WebDriver**
-官方下載頁面：https://github.com/brave/brave-browser/wiki/Brave-Driver
-
-Brave 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。
-
-**🟪 Opera WebDriver**
-官方下載頁面：https://github.com/operasoftware/operachromiumdriver/releases
-
-Opera 基於 Chromium，通常可以使用與 Chrome 相同版本的 WebDriver。
+請選擇與您 Firefox 瀏覽器版本相符的 GeckoDriver 版本
 
 ---
 ## ⬇️ 下載Edge、Chrome、Firefox、Brave、Opera瀏覽器腳本

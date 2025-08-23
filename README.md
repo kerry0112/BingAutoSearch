@@ -66,9 +66,3 @@
 官方下載頁面：https://github.com/mozilla/geckodriver/releases
 
 請選擇與您 Firefox 瀏覽器版本相符的 GeckoDriver 版本
-
----
-## ⬇️ 下載Edge、Chrome、Firefox、Brave、Opera瀏覽器腳本
-1.將`AutoInstaller.zip`解壓縮
-
-2.點擊`AutoInstaller.bat`自動安裝
